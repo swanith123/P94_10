@@ -1,0 +1,39 @@
+html, body
+{
+height: 100%;
+margin: 0;
+}
+
+body{
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(173,232,229,1) 0%, rgba(23,163,221,1) 100%);
+font-family: 'Cabin', sans-serif;
+}
+
+#kwitter_picture{
+width : 50px;
+height : 50px
+}
+
+
+h1{
+    background-color: rgb(0, 247, 255);
+}
+
+.h{
+    color: grey;
+    font-size: 18px;
+}
+
+#username{
+    margin-top: 50px;
+}
+
+#login_button{
+    margin-top: 15px;
+}
+
+.roomname{
+    margin-top: 50px;
+}
+
